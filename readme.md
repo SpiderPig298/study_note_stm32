@@ -8,4 +8,9 @@ board and applications</p>
 
 ## 1. build a LED circuit -- 点亮LED电路
 
-<p>这是第一个project，还没有用到代码，只使用了</p>
+<p>这是第一个project，还没有用到代码，只是熟悉一下如何接线<br>
+first project is to familiar with the hardware and connecting wires</p>
+<div>
+<img src="./pic/pro01-01.webp" height="300px" display="block">
+<img src="./pic/pro01-02.webp" height="300px" display="block">
+</div>
