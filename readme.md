@@ -26,4 +26,4 @@ HAL_Delay(500);
 HAL_GPIO_TogglePin(GPIOA,GPIO_PIN_5);
 ```
 
-<video src="./pic/IMG_4998.mov" height="300px">
+<img src="./pic/IMG_4998 00_00_00-00_00_30.gif" height="300px">
