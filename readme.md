@@ -25,3 +25,5 @@ first project is to familiar with the hardware and connecting wires</p>
 HAL_Delay(500);
 HAL_GPIO_TogglePin(GPIOA,GPIO_PIN_5);
 ```
+
+<video src="./pic/IMG_4998.mov" height="300px">
