@@ -26,4 +26,6 @@ HAL_Delay(500);
 HAL_GPIO_TogglePin(GPIOA,GPIO_PIN_5);
 ```
 
-<video src="./pic/IMG_4998.mov" height="300px">
+<video autoplay muted loop playsinline>
+  <source src="./pic/IMG_4998.mov">
+</video>
