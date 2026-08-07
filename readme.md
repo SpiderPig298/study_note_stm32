@@ -55,5 +55,5 @@ HAL_GPIO_TogglePin(GPIOA,GPIO_PIN_5);
 using a button to control the led, turn on / turn off. <br>
 the circuit of this project will be devided into two parts. <br>
 the first part is linked to the button, and then linked to the GPIO pin to detect input. (pin mode: GPIO_Input) <br>
-the seconf part is the leds. there will be 3 leds in this project.
+the second part is the leds. there will be 3 leds in this project.
 </p>
